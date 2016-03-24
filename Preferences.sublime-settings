@@ -1,0 +1,8 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Material-Theme-Darker-OceanicNext (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Material-Theme.sublime-theme"
+}
